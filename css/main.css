@@ -38,8 +38,13 @@ h2, nav, blockquote, {
   font-size: 1.125rem;
 }
 
+img {
+  width: 100%;
+}
+
 blockquote, figcaption {
   text-align: center;
+  font-style: italic;
 }
 
 a,
