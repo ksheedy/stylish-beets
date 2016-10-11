@@ -3,6 +3,11 @@ body {
   font-family: "PT serif", serif;
   font-size: 0.8rem;
   line-height: 1.5;
+  color: #222;
+}
+
+h1, h2: {
+  color: #3f1622;
 }
 
 h1, h2, nav {
