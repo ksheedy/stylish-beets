@@ -1,9 +1,10 @@
-body {
+html {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
   font-size: 0.8rem;
   line-height: 1.5;
   color: #222;
+  font-weight: normal;
 }
 
 h1, h2 {
@@ -17,6 +18,7 @@ i {
 .germination {
   font-size: 1.125rem;
   text-align: center;
+  font-weight: bold;
 }
 
 nav ol li {
@@ -39,7 +41,7 @@ h1 {
   font-size: 1.5rem;
 }
 
-h2, nav, blockquote, {
+h2, nav, blockquote {
   font-size: 1.125rem;
 }
 
@@ -59,4 +61,5 @@ a:link {
 
 a:hover {
   color: #3f1622;
+  text-decoration: underline;
 }
