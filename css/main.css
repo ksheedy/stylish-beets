@@ -14,6 +14,11 @@ i {
   font-style: italic;
 }
 
+.germination {
+  font-size: 1.125rem;
+  text-align: center;
+}
+
 nav ol li {
   list-style-type: none;
 }
