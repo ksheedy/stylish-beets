@@ -38,10 +38,15 @@ h2, nav, blockquote, {
   font-size: 1.125rem;
 }
 
+blockquote, figcaption {
+  text-align: center;
+}
+
 a,
 a:link {
   color:#8f2440;
 }
+
 a:hover {
   color: #3f1622;
 }
