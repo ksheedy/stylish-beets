@@ -6,8 +6,24 @@ body {
   color: #222;
 }
 
-h1, h2: {
+h1, h2 {
   color: #3f1622;
+}
+
+i {
+  font-style: italic;
+}
+
+nav ol li {
+  list-style-type: none;
+}
+
+ol li {
+  list-style-type: lower-greek;
+}
+
+ul li {
+  list-style-type: circle;
 }
 
 h1, h2, nav {
@@ -20,4 +36,12 @@ h1 {
 
 h2, nav, blockquote, {
   font-size: 1.125rem;
+}
+
+a,
+a:link {
+  color:#8f2440;
+}
+a:hover {
+  color: #3f1622;
 }
