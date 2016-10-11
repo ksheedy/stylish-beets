@@ -12,6 +12,18 @@ h1, h2 {
   font-weight: bolder;
 }
 
+h1, h2, nav {
+  font-family: "PT Sans", sans-serif;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+h2, nav, blockquote {
+  font-size: 1.125rem;
+}
+
 .germination {
   font-size: 1.125rem;
   text-align: center;
@@ -28,18 +40,6 @@ ol li {
 
 ul li {
   list-style-type: circle;
-}
-
-h1, h2, nav {
-  font-family: "PT Sans", sans-serif;
-}
-
-h1 {
-  font-size: 1.5rem;
-}
-
-h2, nav, blockquote {
-  font-size: 1.125rem;
 }
 
 img {
