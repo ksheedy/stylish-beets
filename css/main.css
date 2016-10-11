@@ -51,6 +51,10 @@ blockquote, figcaption {
   font-style: italic;
 }
 
+blockquote cite {
+  font-size: 0.8rem;
+}
+
 a,
 a:link {
   color:#8f2440;
