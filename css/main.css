@@ -14,7 +14,7 @@ h1, h2 {
 
 .germination {
   font-size: 1.125rem;
-  text-align: justify;
+  text-align: center;
   font-weight: bold;
 }
 
@@ -53,6 +53,10 @@ blockquote, figcaption {
 
 blockquote cite {
   font-size: 0.8rem;
+}
+
+dl dt {
+  font-weight: bold;
 }
 
 a,
